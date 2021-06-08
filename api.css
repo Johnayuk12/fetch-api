@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(236, 236, 236);
+    /* position: relative; */
+}
+
+.card{
+    background-color: inherit;
+    box-shadow: 5px 10px 3px #dddddd;
+}
+
+.span{
+    display: none;
+}
+
+.container{
+    position: relative;
+}
+
+.row1{
+    position: fixed;
+    z-index: 1;
+}
+
+.row2{
+    padding-top: 20em;
+    margin-top: 10em;
+  position: relative;
+}
